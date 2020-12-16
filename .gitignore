@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Unwanted FIles
+app.js
+app1.js
+ufo_starterCode.js

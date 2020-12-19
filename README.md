@@ -12,6 +12,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 This new assignment consists of one technical analysis deliverable and a written report. You will submit the following deliverables:
 
 -Deliverable 1: Filter UFO sightings on multiple criteria
+
 -Deliverable 2: A written report on the UFO analysis (README.md)
 
 **Languages**
@@ -33,19 +34,15 @@ This new assignment consists of one technical analysis deliverable and a written
 **Screenshots**
 ---
 
-**Search Criteria (Filters)**
+**Desktop View**
 
-![UFOs_Filters.png](static/images/UFOs_Filters.png)
+![Desktop_view](static/images/Desktop_view.png)
 
-**Desktop**
+**Search Criteria**
 
-![UFOs_Desktop.png](static/images/UFOs_Desktop.png)
+![Filters.png](static/images/Filters.png)
 
-**Ipad or Surface**
+**Ipad View**
 
-![UFOs_Ipad.png](static/images/UFOs_Ipad.png)
-
-**Iphone or Note10**
-
-![UFOs_Mobile.png](static/images/UFOs_Mobile.png)
+![iPad_view.png](static/images/iPad_view.png)
 
